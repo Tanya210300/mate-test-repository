@@ -1,3 +1,3 @@
 
 
-I am studying at Mate Academy! 
+I am studying * at Mate Academy! 
